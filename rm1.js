@@ -1,0 +1,1 @@
+document.getElementById("donate").addEventListener('click', alert("Welcome"));
